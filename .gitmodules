@@ -1,0 +1,3 @@
+[submodule "lib/pohoda_xml_validator/pohoda_xsd"]
+	path = lib/pohoda_xml_validator/pohoda_xsd
+	url = https://github.com/Masa331/pohoda_xsd.git
