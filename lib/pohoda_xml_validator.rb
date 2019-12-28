@@ -10,7 +10,6 @@ module PohodaXmlValidator
 
     doc = Nokogiri::XML(utf_source)
 
-
     errors = schema.validate(doc)
 
     errors
